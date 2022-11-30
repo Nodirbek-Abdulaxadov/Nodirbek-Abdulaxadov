@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nodirbek-Abdulaxadov
+- 👋 Hi, I’m Nodirbek Abdulakhadov
 - 👀 I’m interested in .NET
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on .NET Uzbekistan
