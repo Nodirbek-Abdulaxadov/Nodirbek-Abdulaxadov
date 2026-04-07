@@ -28,6 +28,9 @@ I'm a passionate .NET Software Engineer based in Tashkent, Uzbekistan, currently
 
 ---
 
+## Wakatime status
+[![wakatime](https://wakatime.com/badge/user/c9699ee4-1e0a-4bef-aeb7-f3caba6855e5.svg)](https://wakatime.com/@c9699ee4-1e0a-4bef-aeb7-f3caba6855e5)
+
 ## 🏗️ Projects
 
 - **E-commerce Platforms** – Robust, scalable web stores built with .NET stack
