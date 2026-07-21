@@ -102,6 +102,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/c9699ee4-1e0a-4bef-aeb7-f3caba6855e5.svg)](https://wakatime.com/@c9699ee4-1e0a-4bef-aeb7-f3caba6855e5)
 
+![Wakatime Stats](https://wakatime.com/share/@nbkabdulakhadov/bf12ef9e-478f-4254-9c4e-bdde82ff74fc.svg)
 </div>
 
 ---
