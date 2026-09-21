@@ -37,7 +37,7 @@
 - 🎓 Applied Mathematics & Informatics — analytical approach to engineering
 - 👨‍🏫 Mentored developers at RTM Margilan & Najot Ta'lim
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SanjarbekSaminjonov?theme=nord&font=Allerta&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nodirbek-Abdulaxadov/?theme=nord&font=Allerta&ext=activity)
 
 ---
 
